@@ -1,3 +1,3 @@
-## Hi there!
+Hi there!
 
-< #My first learning repository >
+My first learning repository
